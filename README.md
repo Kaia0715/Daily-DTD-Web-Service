@@ -54,3 +54,5 @@ Alternatively, from the project root directory run:
 
 The Streamlit application allows the user to select a cutoff date,
 and select whether to update from raw(first time) or processed data(daily increment).
+
+For daily updates, it is recommended to run the application after 4:30 p.m. Hong Kong time to allow sufficient time for the latest Hong Kong stock-market closing data to become available through Yahoo Finance.
